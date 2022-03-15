@@ -1,0 +1,47 @@
+id: LOG04
+typeCode: LOG
+description: Logo agid
+mainGroup: free
+status: PUBLIC
+viewPage: demo_dettaglio
+listModel: '501'
+defaultModel: '501'
+attributes:
+  - code: title
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: subtitle
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: '04'
+        name: agid.png
+      it:
+        correlationCode: '04'
+        name: agid.png
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      symbolicDestination: '#!P;demo_homepage!#'
+      destType: 2
+      urlDest: null
+      pageDest: demo_homepage
+      contentDest: null
+      resourceDest: null
+    values:
+      en: homepage
+      it: homepage
+    elements: []
+    compositeelements: []
+    listelements: {}

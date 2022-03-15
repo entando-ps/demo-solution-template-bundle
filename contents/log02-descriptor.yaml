@@ -1,0 +1,51 @@
+id: LOG02
+typeCode: LOG
+description: Logo Demo esempio
+mainGroup: free
+status: PUBLIC
+viewPage: demo_dettaglio
+listModel: '501'
+defaultModel: '501'
+attributes:
+  - code: title
+    value: null
+    values:
+      en: Demo solution template
+      it: Demo solution template
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: subtitle
+    value: null
+    values:
+      en: Template di esempio
+      it: Template di esempio
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: '02'
+        name: logo-big.png
+      it:
+        correlationCode: '02'
+        name: logo-big.png
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      symbolicDestination: '#!P;demo_homepage!#'
+      destType: 2
+      urlDest: null
+      pageDest: demo_homepage
+      contentDest: null
+      resourceDest: null
+    values:
+      en: homepage demo
+      it: homepage demo
+    elements: []
+    compositeelements: []
+    listelements: {}

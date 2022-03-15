@@ -1,0 +1,79 @@
+id: LOG03
+typeCode: LOG
+description: Logo demo footer
+mainGroup: free
+status: PUBLIC
+viewPage: demo_dettaglio
+listModel: '501'
+defaultModel: '501'
+attributes:
+  - code: title
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: subtitle
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: '03'
+        name: logo_3x.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Sat Sep 18 07:51:20 +00:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Image Gamma: '0.455'
+          Image Height: '69'
+          Image Width: '426'
+          File Size: 14994 bytes
+          Interlace Method: Adam7 Interlace
+          Detected File Type Name: PNG
+          File Name: logo_3x_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+      it:
+        correlationCode: '03'
+        name: logo_3x.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Sat Sep 18 07:51:20 +00:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Image Gamma: '0.455'
+          Image Height: '69'
+          Image Width: '426'
+          File Size: 14994 bytes
+          Interlace Method: Adam7 Interlace
+          Detected File Type Name: PNG
+          File Name: logo_3x_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      symbolicDestination: '#!U;http://www.demo.servizi.it/!#'
+      destType: 1
+      urlDest: 'http://www.demo.servizi.it/'
+      pageDest: null
+      contentDest: null
+      resourceDest: null
+    values:
+      en: Sezione intranet
+      it: Sezione intranet
+    elements: []
+    compositeelements: []
+    listelements: {}

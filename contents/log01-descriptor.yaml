@@ -1,0 +1,77 @@
+id: LOG01
+typeCode: LOG
+description: piccolo logo demo musthead
+mainGroup: free
+status: PUBLIC
+viewPage: demo_dettaglio
+listModel: '501'
+defaultModel: '501'
+attributes:
+  - code: title
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: subtitle
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: img
+    value: null
+    values:
+      en:
+        correlationCode: '01'
+        name: logo_demo.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Fri Sep 17 17:01:03 +00:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Image Gamma: '0.455'
+          Image Height: '20'
+          Image Width: '108'
+          File Size: 2313 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          File Name: logo_demo_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+      it:
+        correlationCode: '01'
+        name: logo_demo.png
+        metadata:
+          Filter Method: Adaptive
+          Detected File Type Long Name: Portable Network Graphics
+          File Modified Date: 'Fri Sep 17 17:01:03 +00:00 2021'
+          Compression Type: Deflate
+          Detected MIME Type: image/png
+          Expected File Name Extension: png
+          Image Gamma: '0.455'
+          Image Height: '20'
+          Image Width: '108'
+          File Size: 2313 bytes
+          Interlace Method: No Interlace
+          Detected File Type Name: PNG
+          File Name: logo_demo_d0.png
+          Color Type: True Color with Alpha
+          Bits Per Sample: '8'
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link
+    value:
+      symbolicDestination: '#!!#'
+      destType: 0
+      urlDest: null
+      pageDest: null
+      contentDest: null
+      resourceDest: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

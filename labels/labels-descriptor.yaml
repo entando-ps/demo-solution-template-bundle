@@ -1,0 +1,32 @@
+- key: DEMO_ALLEGATI
+  titles:
+    en: Attachments list
+    it: Lista degli allegati
+- key: Demo DETTAGLIO
+  titles:
+    en: Detail for
+    it: Dettaglio per
+- key: DEMO_DOWNLOAD
+  titles:
+    en: Download
+    it: Scarica
+- key: DEMO_READ_MORE
+  titles:
+    en: Read more
+    it: Approfondisci
+- key: DEMO_PORT_ES_TITLE
+  titles:
+    en: DEMO Template
+    it: DEMO Template
+- key: DEMO_NOTIFICA
+  titles:
+    en: Sezione notifiche
+    it: Sezione notifiche
+- key: DEMO_NO_ALLEGATI
+  titles:
+    en: Non sono presenti allegati al momento
+    it: Non sono presenti allegati al momento
+- key: DEMO_ADMINISTRATION
+  titles:
+    en: Administration
+    it: Amministrazione

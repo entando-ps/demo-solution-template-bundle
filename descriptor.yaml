@@ -1,0 +1,96 @@
+code: demo-template-bundle
+description: Demo Solution Template Bundle
+bundle-type: system-level-bundle
+components:
+  groups:
+  widgets:
+    - widgets/demo_breadcrumb-descriptor.yaml
+    - widgets/demo_login-descriptor.yaml
+    - widgets/demo_header_logo-descriptor.yaml
+    - widgets/demo_search-descriptor.yaml
+    - widgets/demo_logo_demo-descriptor.yaml
+    - widgets/demo_footer_3-descriptor.yaml
+    - widgets/demo_footer_1-descriptor.yaml
+    - widgets/demo_footer_2-descriptor.yaml
+    - widgets/demo_logo_ft1-descriptor.yaml
+    - widgets/demo_logo_ft2-descriptor.yaml
+    - widgets/demo_menu-descriptor.yaml
+    - widgets/demo_menu_es-descriptor.yaml
+  pageModels:
+    - pageModels/demo_home-descriptor.yaml
+    - pageModels/demo_internal-descriptor.yaml
+  fragments:
+    - fragments/entando_widget_navigation_bar-descriptor.yaml
+    - fragments/entando_widget_navigation_bar_include-descriptor.yaml
+    - fragments/jacms_content_viewer-descriptor.yaml
+    - fragments/jacms_content_viewer_list-descriptor.yaml
+    - fragments/jacms_content_viewer_list_slider-descriptor.yaml
+    - fragments/jacms_content_viewer_list_demo-descriptor.yaml
+    - fragments/demo_footer_inclusion-descriptor.yaml
+    - fragments/demo_header_inclusion-descriptor.yaml
+    - fragments/demo_pager_block-descriptor.yaml
+  pages:
+    - pages/demo_homepage-descriptor.yaml
+    - pages/demo_dettaglio-descriptor.yaml
+    - pages/demo_avvisi-descriptor.yaml
+    - pages/demo_docs-descriptor.yaml
+  contentTypes:
+    - contentTypes/aaa-descriptor.yaml
+    - contentTypes/avv-descriptor.yaml
+    - contentTypes/crd-descriptor.yaml
+    - contentTypes/csr-descriptor.yaml
+    - contentTypes/log-descriptor.yaml
+    - contentTypes/lol-descriptor.yaml
+    - contentTypes/med-descriptor.yaml
+    - contentTypes/txt-descriptor.yaml
+  contentModels:
+    - contentModels/demo-esempi-attributi-corso-descriptor.yaml
+    - contentModels/demo-scheda-descrittiva-generica-(txt)-descriptor.yaml
+    - contentModels/demo-lista-di-link-for-footer-colonna-2-(lol)-descriptor.yaml
+    - contentModels/demo-logo-piccolo-musthead-(log)-descriptor.yaml
+    - contentModels/demo-logo-for-footer-(log)-descriptor.yaml
+    - contentModels/demo-card-link-in-evidenza-(csr)-descriptor.yaml
+    - contentModels/demo-card-servizi-in-evidenza-(csr)-descriptor.yaml
+    - contentModels/demo-card-news-evidenza-(crd)-descriptor.yaml
+    - contentModels/demo-lista-documenti-evidenza-(crd)-descriptor.yaml
+    - contentModels/demo-avviso-modello-(avv)-descriptor.yaml
+    - contentModels/demo-dettaglio-notizie-(crd)-descriptor.yaml
+    - contentModels/demo-dettaglio-documenti-(crd)-descriptor.yaml
+    - contentModels/demo-logo-e-nome-compagnia-(log)-descriptor.yaml
+    - contentModels/demo-card-slider-(crd)-descriptor.yaml
+    - contentModels/demo-lista-link-footer-(lol)-descriptor.yaml
+    - contentModels/demo-card-lista-immagini-(med)-descriptor.yaml
+    - contentModels/demo-risultato-lista-(crd)-descriptor.yaml
+    - contentModels/demo-risultato-lista-(csr)-descriptor.yaml
+    - contentModels/demo-risultato-lista-documenti-(crd)-descriptor.yaml
+    - contentModels/demo-card-singola-media-(med)-descriptor.yaml
+  assets:
+    - assets/01/01-descriptor.yaml
+    - assets/02/02-descriptor.yaml
+    - assets/03/03-descriptor.yaml
+    - assets/04/04-descriptor.yaml
+    - assets/05/05-descriptor.yaml
+    - assets/06/06-descriptor.yaml
+    - assets/07/07-descriptor.yaml
+  contents:
+    - contents/log01-descriptor.yaml
+    - contents/log02-descriptor.yaml
+    - contents/log03-descriptor.yaml
+    - contents/log04-descriptor.yaml
+    - contents/lol05-descriptor.yaml
+    - contents/lol06-descriptor.yaml
+    - contents/lol07-descriptor.yaml
+    - contents/crd08-descriptor.yaml
+    - contents/crd09-descriptor.yaml
+    - contents/crd10-descriptor.yaml
+    - contents/crd11-descriptor.yaml
+    - contents/crd12-descriptor.yaml
+    - contents/crd13-descriptor.yaml
+    - contents/crd14-descriptor.yaml
+    - contents/crd15-descriptor.yaml
+    - contents/avv16-descriptor.yaml
+  plugins: []
+  categories:
+    - categories/categories-descriptor.yaml
+  labels:
+    - labels/labels-descriptor.yaml
