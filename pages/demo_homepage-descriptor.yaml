@@ -52,8 +52,8 @@ widgets:
           order: DESC
       linkDescr_it: Archivio avvisi
       linkDescr_en: Archivio avvisi
-      title_it: Avvisi per gli utenti
-      title_en: Avvisi per gli utenti
+      title_it: Ultime notizie
+      title_en: Ultime notizie
     pos: 6
   - code: content_viewer
     config:
@@ -74,7 +74,7 @@ widgets:
           key: date
           order: DESC
       linkDescr_it: Archivio Documenti
-      linkDescr_en: Documents Archive
+      linkDescr_en: Archivio Documenti
       title_it: Documenti in evidenza
       title_en: Documenti in evidenza
     pos: 8

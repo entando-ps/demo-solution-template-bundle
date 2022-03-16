@@ -51,7 +51,7 @@ widgets:
           key: date
           order: DESC
       linkDescr_it: Archivio Documenti
-      linkDescr_en: Documents Archive
+      linkDescr_en: Archivio Documenti
       title_it: Documenti in evidenza
       title_en: Documenti in evidenza
     pos: 5

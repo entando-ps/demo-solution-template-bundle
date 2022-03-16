@@ -52,8 +52,8 @@ widgets:
           order: DESC
       linkDescr_it: Archivio avvisi
       linkDescr_en: Archivio avvisi
-      title_it: Avvisi per gli utenti
-      title_en: Avvisi per gli utenti
+      title_it: Ultime notizie
+      title_en: Ultime notizie
     pos: 5
   - code: demo_logo_ft1
     config:

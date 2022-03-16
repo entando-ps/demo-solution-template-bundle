@@ -28,7 +28,7 @@ customUi: |-
                   <@wp.ifauthorized permission="enterBackend">
                   <li>
                       <a class="list-item" href="<@wp.info key="systemParam" paramName="applicationBaseURL" />do/main.action?request_locale=<@wp.info key="currentLang" />">
-                         <span><@wp.i18n key="ADMINISTRATION" /></span>
+                         <span><@wp.i18n key="DEMO_ADMINISTRATION" /></span>
                       </a>
                   </li>
                   </@wp.ifauthorized>
