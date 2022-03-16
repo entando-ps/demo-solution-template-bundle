@@ -9,14 +9,14 @@
     }
 
     .it-header-slim-wrapper {
-        background: #001F6B !important;
+        background: rgb(91 93 96)!important;
         height: 77px !important;
     }
 
     .card.card-big .card-body .card-text {
-    font-size: 1.3rem;
-    line-height: 1.33333rem;
-}
+        font-size: 1.3rem;
+        line-height: 1.33333rem;
+    }
 
     .card .card-body .category-top a.category {
         font-size: 34px;
@@ -86,7 +86,7 @@
         fill: #ffffff;
     }
 
-    .it-footer-main 
+    .it-footer-main
     .icon {
         width: 185px;
         height: 145px;
@@ -99,7 +99,7 @@
     }
     .icon-custom {
         margin: 0 0 0 32px;
-        background: #001F6B;
+        background: rgb(91 93 96);
         padding: 6px;
         border-radius: 64px;
         fill: #fff;
@@ -511,7 +511,7 @@
         width: 92%;
         margin: 6px 20px 18px 35px;
     }
-    
+
     .navbar .navbar-collapsable .navbar-nav li a.nav-link {
         color: #131313;
         font-weight: 500;
@@ -567,7 +567,7 @@
         line-height: 1.55556rem;
     }
     .link-body {
-        background: #001f6b;
+        background: rgb(91 93 96);
         font-size: 38px;
         color: #fff;
     }
@@ -644,15 +644,15 @@
         right: 22px;
         top: 5px;
         font-size: 16px;
-        color: #001f6b;
+        color: rgb(91 93 96);
         background-color: #fff;
         border-color: #fff;
         box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
     }
     .btn-army-cards {
         color: #fff;
-        background-color: #001f6b;
-        border-color: #001f6b;
+        background-color: rgb(91 93 96);
+        border-color: rgb(91 93 96);
         box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
     }
     .btn-army-cards:hover {
@@ -664,14 +664,14 @@
         color: #fff;
     }
     .btn-army {
-        color: #001f6b;
+        color: rgb(91 93 96);
         background-color: transparent;
         border-color: transparent;
         box-shadow: none;
         outline: none;
     }
     .btn-army:hover {
-        color: #001f6b;
+        color: rgb(91 93 96);
         background-color: transparent;
         border-color: #de3e3e;
     }
@@ -714,7 +714,7 @@
         font-weight: 600;
     }
     .photo .fa-expand-arrows-alt {
-        background: #001f6b;
+        background: rgb(91 93 96);
         height: 81px;
         width: 81px;
         position: absolute;
@@ -827,7 +827,7 @@
         font-size: 37px;
     }
     .card-personale .card-body ul li a {
-        color: #001f6b;
+        color: rgb(91 93 96);
         font-size: 34px;
     }
     .link-list-wrapper-internal ul li {
@@ -847,7 +847,7 @@
         line-height: 48px;
     }
     .quick-link .nav-link .fas {
-        color: #001f6b;
+        color: rgb(91 93 96);
         font-size: 50px;
     }
     .section-generic-title p {
@@ -933,7 +933,7 @@
         color: #000;
     }
     .btn-menu-contact .fas {
-        color: #001f6b;
+        color: rgb(91 93 96);
     }
     ul.navbar-nav {
         margin: 4em 0;
@@ -1017,16 +1017,16 @@
         display: flex;
         align-items: center;
         width: 100%;
-        background: #001F6B;
+        background: rgb(91 93 96);
         /* margin: 0 0px; */
-        /* border: 1px solid #001f6b; */
+        /* border: 1px solid rgb(91 93 96); */
         border-radius: 0;
         height: 93px;
     }
     .custom-box {
         height: 109px;
         position: absolute;
-        background: #06c;
+        background: #c1c5cb;
         top: 93px;
         width: 100%;
         display: flex;
@@ -1617,7 +1617,7 @@
     }
 
     .it-header-slim-wrapper {
-        background: #001F6B;
+        background: rgb(91 93 96);
         height: 73px !important;
     }
     a.dropdown-toggle {
@@ -1679,7 +1679,7 @@
         margin-bottom: 41px;
     }
     .link-body {
-        background: #001f6b;
+        background: rgb(91 93 96);
         font-size: 46px;
         color: #fff;
         padding:60px 30px;
@@ -1697,11 +1697,11 @@
     /*---------------------*/
 
     .servizitab button.active {
-        background-color: #001f6b;
+        background-color: rgb(91 93 96);
         border-bottom: none;
         font-weight: 500;
         color: #ffffff;
-        border-top: 3px solid #001f6b;
+        border-top: 3px solid rgb(91 93 96);
     }
     .servizitab button {
         background-color: #f3f3f3;
@@ -1859,25 +1859,25 @@
         width: 100%;
     }
     .awareness-card .card.card-big .card-body p {
-    position: relative;
-    line-height: 1.2em;
-    max-height: 6.6em;
-    text-align: justify;
-    margin-right: 0em;
-    padding-right: 1em;
-    overflow: hidden;
-}
-.awareness-card .card.card-big .card-body p::before {
-    content: "...";
-    position: absolute;
-    right: 5px;
-    bottom: 12px;
-}
-.logo-sezione {
-    height: 78px;
-    margin-right: 10px;
-    margin-left: -12px;
-}
+        position: relative;
+        line-height: 1.2em;
+        max-height: 6.6em;
+        text-align: justify;
+        margin-right: 0em;
+        padding-right: 1em;
+        overflow: hidden;
+    }
+    .awareness-card .card.card-big .card-body p::before {
+        content: "...";
+        position: absolute;
+        right: 5px;
+        bottom: 12px;
+    }
+    .logo-sezione {
+        height: 78px;
+        margin-right: 10px;
+        margin-left: -12px;
+    }
 }
 
 
@@ -1886,34 +1886,34 @@
         max-width: 97%;
     }
     .logo-sezione {
-    height: 51px;
-    margin-right: 10px;
-}
-      .awareness-card .card.card-big .card-body p {
-    position: relative;
-    line-height: 1.2em;
-    max-height: 5.9em;
-    text-align: justify;
-    margin-right: 0em;
-    padding-right: 1em;
-    overflow: hidden;
-}
-.awareness-card .card.card-big .card-body p::before {
-    content: "...";
-    position: absolute;
-    right: 5px;
-    bottom: 12px;
-}
+        height: 51px;
+        margin-right: 10px;
+    }
+    .awareness-card .card.card-big .card-body p {
+        position: relative;
+        line-height: 1.2em;
+        max-height: 5.9em;
+        text-align: justify;
+        margin-right: 0em;
+        padding-right: 1em;
+        overflow: hidden;
+    }
+    .awareness-card .card.card-big .card-body p::before {
+        content: "...";
+        position: absolute;
+        right: 5px;
+        bottom: 12px;
+    }
 
     .card.card-big .card-body .card-text {
-    font-size: 1.3rem;
-    line-height: 1.33333rem;
-}
+        font-size: 1.3rem;
+        line-height: 1.33333rem;
+    }
 
-  .awareness-card .card.card-big .card-body h5.card-title {
-    font-size: 25px;
-    line-height: 1.55556rem;
- }
+    .awareness-card .card.card-big .card-body h5.card-title {
+        font-size: 25px;
+        line-height: 1.55556rem;
+    }
     .card .card-body .category-top a.category {
         font-size: 34px;
         text-decoration: underline;
@@ -2380,7 +2380,7 @@
         margin: 0px 0 0 35px;
         position: relative;
     }
-    
+
     .navbar .navbar-collapsable .navbar-nav li a.nav-link {
         color: #131313;
         font-weight: 500;
@@ -2438,7 +2438,7 @@
         line-height: 1.55556rem;
     }
     .link-body {
-        background: #001f6b;
+        background: rgb(91 93 96);
         font-size: 38px;
         color: #fff;
     }
@@ -2516,15 +2516,15 @@
         right: 22px;
         top: 5px;
         font-size: 16px;
-        color: #001f6b;
+        color: rgb(91 93 96);
         background-color: #fff;
         border-color: #fff;
         box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
     }
     .btn-army-cards {
         color: #fff;
-        background-color: #001f6b;
-        border-color: #001f6b;
+        background-color: rgb(91 93 96);
+        border-color: rgb(91 93 96);
         box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 0, 0, .075);
     }
     .btn-army-cards:hover {
@@ -2536,14 +2536,14 @@
         color: #fff;
     }
     .btn-army {
-        color: #001f6b;
+        color: rgb(91 93 96);
         background-color: transparent;
         border-color: transparent;
         box-shadow: none;
         outline: none;
     }
     .btn-army:hover {
-        color: #001f6b;
+        color: rgb(91 93 96);
         background-color: transparent;
         border-color: #de3e3e;
     }
@@ -2586,7 +2586,7 @@
         font-weight: 600;
     }
     .photo .fa-expand-arrows-alt {
-        background: #001f6b;
+        background: rgb(91 93 96);
         height: 81px;
         width: 81px;
         position: absolute;
@@ -2699,7 +2699,7 @@
         font-size: 37px;
     }
     .card-personale .card-body ul li a {
-        color: #001f6b;
+        color: rgb(91 93 96);
         font-size: 34px;
     }
     .link-list-wrapper-internal ul li {
@@ -2719,7 +2719,7 @@
         line-height: 48px;
     }
     .quick-link .nav-link .fas {
-        color: #001f6b;
+        color: rgb(91 93 96);
         font-size: 50px;
     }
     .section-generic-title p {
@@ -2809,7 +2809,7 @@
         color: #000;
     }
     .btn-menu-contact .fas {
-        color: #001f6b;
+        color: rgb(91 93 96);
     }
     ul.navbar-nav {
         margin: 10em 0;
@@ -2892,7 +2892,7 @@
         display: flex;
         align-items: center;
         width: 100%;
-        background: #001F6B;
+        background: rgb(91 93 96);
         border-radius: 0;
         height: 79px;
     }
@@ -3247,7 +3247,7 @@
     .footer-logo {
         height: 70px;
         margin: 4px 0;
-    } 
+    }
 
     .it-nav-wrapper {
         -webkit-box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.38);
@@ -3436,7 +3436,7 @@
         cursor: pointer;
     }
     .it-header-slim-wrapper {
-        background: #001F6B;
+        background: rgb(91 93 96);
         height: 73px !important;
     }
     .searchable .fa-2x  {
@@ -3508,7 +3508,7 @@
         color: #fff;
         font-size: 26px;
     }
-    .it-footer-main 
+    .it-footer-main
     .icon {
         width: 185px;
         height: 145px;
