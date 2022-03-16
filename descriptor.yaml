@@ -8,7 +8,7 @@ components:
     - widgets/demo_login-descriptor.yaml
     - widgets/demo_header_logo-descriptor.yaml
     - widgets/demo_search-descriptor.yaml
-    - widgets/demo_logo_demo-descriptor.yaml
+    - widgets/demo_logo-descriptor.yaml
     - widgets/demo_footer_3-descriptor.yaml
     - widgets/demo_footer_1-descriptor.yaml
     - widgets/demo_footer_2-descriptor.yaml
