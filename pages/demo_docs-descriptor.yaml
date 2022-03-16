@@ -11,7 +11,7 @@ seo: false
 charset: utf8
 status: published
 widgets:
-  - code: demo_logo_demo
+  - code: demo_logo
     config:
       modelId: '501'
       contentDescription: piccolo logo demo musthead

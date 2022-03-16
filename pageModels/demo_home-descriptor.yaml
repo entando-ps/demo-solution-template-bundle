@@ -6,7 +6,7 @@ configuration:
       description: Logo musthead frame 0
       mainFrame: false
       defaultWidget:
-        code: demo_logo_demo
+        code: demo_logo
         properties:
           modelId: '501'
           contentDescription: piccolo logo company musthead
