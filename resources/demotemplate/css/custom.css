@@ -396,7 +396,7 @@ a {
   margin: 0;
 }
 .icon-footer {
-  width: 61%;
+  width: 63%;
   margin: 10px 0px;
 }
 .it-footer-main .link-list-wrapper ul li a {
@@ -689,7 +689,6 @@ a.bx--header__menu-item {
   padding-bottom: 0.1rem;
   display: inline-block;
   margin-top: -0.111rem;
-  color: #19191a;
 }
 
 .link-list-wrapper ul li a span {
@@ -715,7 +714,7 @@ a.bx--header__menu-item {
 }
 
 .callout.note .icon {
-  fill: #343436 !important;
+  fill: #343436;
 }
 
 .callout.callout-more:after {
@@ -731,9 +730,7 @@ a.bx--header__menu-item {
 }
 
 .demo-logo {
-  height: 20px;
-  position: absolute;
-  top: 15px;
+  height:25px;
 }
 
 
@@ -764,13 +761,29 @@ a.bx--header__menu-item {
   font-size: 16px;
 }
 
-.input-group>.custom-file, .input-group>.custom-select, .input-group>.form-control, .input-group>.form-control-plaintext {
+.btn-div button {
+  color:#fff;
+  border:none;
+  width:200px;
+  margin;
+  background: #5b5d60;
+  padding: 10px 15px;
+  text-transform: uppercase;
+}
+
+.btn-div {
+  padding: 0 40px 38px 40px;
+  border: none;
+}
+
+.btn-div span {
+  border-color: #343436;
+  padding: 1.5rem 2.222rem;
+  border: 1px solid #343436;
   position: relative;
-  -webkit-box-flex: 1;
-  -ms-flex: 1 1 auto;
-  flex: 1 1 auto;
-  width: 1%;
-  min-width: 0;
-  margin-bottom: 0;
-  border-radius: 9px;
+  margin: 1.75rem 0 1rem;
+  border-radius: 8px;
+  width: 100%;
+  position: relative;
+  font-size: 20px;
 }
