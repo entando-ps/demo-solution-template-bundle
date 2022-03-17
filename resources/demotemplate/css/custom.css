@@ -689,6 +689,7 @@ a.bx--header__menu-item {
   padding-bottom: 0.1rem;
   display: inline-block;
   margin-top: -0.111rem;
+  color: #19191a;
 }
 
 .link-list-wrapper ul li a span {
@@ -772,18 +773,23 @@ a.bx--header__menu-item {
 }
 
 .btn-div {
-  padding: 0 40px 38px 40px;
+  padding: 23px 18px 0!important;
   border: none;
 }
 
 .btn-div span {
-  border-color: #343436;
-  padding: 1.5rem 2.222rem;
-  border: 1px solid #343436;
+  padding: 0 0 2rem;
   position: relative;
-  margin: 1.75rem 0 1rem;
   border-radius: 8px;
   width: 100%;
   position: relative;
   font-size: 20px;
+  text-transform: uppercase;
+  display: block;
+}
+
+.demo-logo {
+  height: 18px;
+  position: absolute;
+  top: 15px;
 }
